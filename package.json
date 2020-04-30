@@ -1,0 +1,22 @@
+{
+  "name": "translations",
+  "version": "1.0.0",
+  "description": "A place to translate hangouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordHangouts/Translations.git"
+  },
+  "keywords": [
+    "Translations"
+  ],
+  "author": "Kashall <jordpjones@gmail.com> (https://github.com/DiscordHangouts/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiscordHangouts/Translations/issues"
+  },
+  "homepage": "https://github.com/DiscordHangouts/Translations#readme"
+}
